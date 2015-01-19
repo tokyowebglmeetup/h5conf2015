@@ -12,8 +12,8 @@
 ### やっておくこと
 
 - 素材の入手 (下部の素材 URL 参照)
-- テキストエディターの準備 ([Sublime Text](http://www.sublimetext.com/), [Atom](https://atom.io/), (Brackets)[http://brackets.io/]など)
-- [Blender 2.73](http://www.blender.org/download/)のインストール (モデルデータの書き出しに使用します。インストールしていなくてもハンズオンの参加は可能です)
+- テキストエディターの準備 ([Sublime Text](http://www.sublimetext.com/), [Atom](https://atom.io/), [Brackets](http://brackets.io/)など)
+- [Blender 2.73](http://www.blender.org/download/) のインストール (モデルデータの書き出しに使用します。Blenderの準備がなくてもハンズオンの参加は可能です)
 - ローカルサーバーが使える環境
   - ローカルサーバーがない場合、ブラウザー側でクロスオリジンの制限を無効にする設定をしてください (テクスチャー画像の読み込みや Ajax のため)
 - WebGL が動作するブラウザー (ローカルサーバが無い場合は Google Chrome 推奨)
