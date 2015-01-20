@@ -20,8 +20,8 @@
 
 ### 素材URL
 
-以下の3つの zip ファイルをダウンロードして置いてください。
+以下の3つの zip ファイルをダウンロードしておいてください。
 
-- セッション 1 用素材 (1月20日ころ告知をします)
+- [セッション 1 用素材](https://github.com/edom18/HTML5_conf_2015_sample/archive/master.zip)
 - [セッション 2 用素材](https://github.com/tokyowebglmeetup/h5conf2015_session2/archive/master.zip)
 - [セッション 3 用素材](https://github.com/doxas/glslOffline/archive/master.zip)
